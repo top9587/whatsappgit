@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Contacts_2.8.5</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Contacts</key>
+		<dict>
+			<key>WAContact</key>
+			<data>
+			HP/1OCrOMkpJIB+Wks/7HpxLkmdGFzl1MSxNxbsERds=
+			</data>
+			<key>WAContactSection</key>
+			<data>
+			/E5dSgrJE4eSC02xbQtWpEnKrqxrd7ltrIU7AcQsZNQ=
+			</data>
+			<key>WAFavorite</key>
+			<data>
+			1RZ52Lg8EV3ITeU8UXT+vZBSJSi2gHGJsy8WAcBKY/U=
+			</data>
+			<key>WAPhone</key>
+			<data>
+			FtbnE/N2JsysWFVDfbuU+jy6vftuQ785IRZjfoUUmV0=
+			</data>
+			<key>WAStatus</key>
+			<data>
+			P0xktZ6D+cQONScP02fAbm5aE8n6qdbPiofB2SfHBH4=
+			</data>
+		</dict>
+		<key>Contacts_2.8.5</key>
+		<dict>
+			<key>WAContact</key>
+			<data>
+			HP/1OCrOMkpJIB+Wks/7HpxLkmdGFzl1MSxNxbsERds=
+			</data>
+			<key>WAContactSection</key>
+			<data>
+			/E5dSgrJE4eSC02xbQtWpEnKrqxrd7ltrIU7AcQsZNQ=
+			</data>
+			<key>WAFavorite</key>
+			<data>
+			1RZ52Lg8EV3ITeU8UXT+vZBSJSi2gHGJsy8WAcBKY/U=
+			</data>
+			<key>WAPhone</key>
+			<data>
+			QPdsf0EJ4b3sdPGLs6E7bsfU3CkKrE23nuFI4eaSmxo=
+			</data>
+			<key>WAStatus</key>
+			<data>
+			D9MRw+RPsUlo5rprUJugNoiNTJfYK2S/rwZVmoQPrmk=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
