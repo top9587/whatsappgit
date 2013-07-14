@@ -1,6 +1,6 @@
 //
 //  main.m
-//  SimpleApp
+//  WhatsApp
 //
 //  Created by Vanger on 06.02.13.
 //  Copyright (c) 2013 XP.Guild. All rights reserved.
